@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='lw_distributions',
-      version='0.1',
+      version='0.2',
       description='Gaussian and Binomial distributions',
       packages=['lw_distributions'],
       author= 'Leopold Walther',
